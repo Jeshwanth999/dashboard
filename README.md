@@ -3,7 +3,7 @@
 The Tanuja wants to create an annual report .so,that the authorizer of Tanuja store can understand their customers and grow more sales in the next financial year by setting an bench mark with this report<br>
 ##Data Set Used
 -<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dash%20board%20report.xlsx">tanuja sales data set used</a><br>
--<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dashboard%20analysis.png">dataset<a/a> report<br>
+-<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dashboard%20analysis.png">dataset</a> <br>
 ##Questions(KPI'S)<br>
 -Compare sales of each region by category<br>
 -compare total orders of each customer segment by shipmnet mode<br>
@@ -18,7 +18,7 @@ The Tanuja wants to create an annual report .so,that the authorizer of Tanuja st
 -find total customers<br>
 -find total orders<br>
 -total sales for each month<br>
-dash board interaction-<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dashboard%20analysis.png"><a/><br>
+dash board interaction-<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dashboard%20analysis.png"></a><br>
 
 ##Inside the workbook:<br>
 
