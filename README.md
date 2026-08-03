@@ -2,8 +2,8 @@
 ## Project Objective
 The Tanuja wants to create an annual report .so,that the authorizer of Tanuja store can understand their customers and grow more sales in the next financial year by setting an bench mark with this report
 ##Data Set Used
--<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dash%20board%20report.xlsx">tanuja sales data set used
--<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dashboard%20analysis.png">dataset report
+-<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dash%20board%20report.xlsx">tanuja sales data set used</a>
+-<a href="https://github.com/Jeshwanth999/dashboard/blob/main/dashboard%20analysis.png">dataset<a/a> report
 ##Questions(KPI'S)
 -Compare sales of each region by category
 -compare total orders of each customer segment by shipmnet mode
